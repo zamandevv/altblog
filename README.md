@@ -16,22 +16,22 @@
 
 <div>
   <p align="center">
-    <a href="https://github.com/tobisupreme/blogolicious#readme"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/zamandevv/altblog#readme"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://blogolicious.cyclic.app/">Demo</a>
+    <a href="https://altblog.heroku.com/">Demo</a>
     ·
-    <a href="https://github.com/tobisupreme/blogolicious/issues">Report Bug</a>
+    <a href="https://github.com/zamandevv/altblog/issues">Report Bug</a>
     ·
-    <a href="https://github.com/tobisupreme/blogolicious/issues">Request Feature</a>
+    <a href="https://github.com/zamandevv/altblog/issues">Request Feature</a>
   </p>
 </div>
 
 <!-- About the API -->
 
-## Blogolicious
+## Altblog
 
-&mdash; a wonderful Blogging API built as an exam project by <a href="https://www.github.com/tobisupreme">tobisupreme</a>, a Backend Engineering student at <a href="https://altschoolafrica.com/schools/engineering">AltSchool Africa</a>.
+&mdash; a wonderful Blogging API built as an exam project by <a href="https://www.github.com/zamandevv">tobisupreme</a>, a Backend Engineering student at <a href="https://altschoolafrica.com/schools/engineering">AltSchool Africa</a>.
 
 <p align="right"><a href="#readme-top">back to top</a></p>
 
@@ -120,7 +120,7 @@
 #### Clone this repo
 
 ```sh
-git clone https://github.com/tobisupreme/blogolicious.git
+git clone https://github.com/zamandevv/altblog.git
 ```
 
 #### Install project dependencies
@@ -129,7 +129,7 @@ git clone https://github.com/tobisupreme/blogolicious.git
 npm install
 ```
 
-#### Update .env with [example.env](https://github.com/tobisupreme/blogolicious/blob/main/example.env)
+#### Update .env with [example.env](https://github.com/zamandevv/altblog/blob/main/mybranch/example.env)
 
 #### Run a development server
 
@@ -260,7 +260,9 @@ While building this project, I learned about:
 
 ## License
 
-Distributed under the MIT License. See <a href="https://github.com/tobisupreme/blogolicious/blob/main/LICENSE.md">LICENSE</a> for more information.
+Distributed under the MIT License. See <a href="https://github.com/zamandevv/alt
+
+/blob/main/LICENSE.md">LICENSE</a> for more information.
 
 <p align="right"><a href="#readme-top">back to top</a></p>
 
@@ -270,10 +272,10 @@ Distributed under the MIT License. See <a href="https://github.com/tobisupreme/b
 
 ## Contact
 
-- Twitter - [@tobisupreme](https://twitter.com/tobisupreme)
-- email - tobi.balo@gmail.com
+- Twitter - [@AlNur_Zaman](https://twitter.com/AlNur_Zaman)
+- email - adebayonur@gmail.com 
 
-Project Link: [Blogolicious](https://github.com/tobisupreme/blogolicious)
+Project Link: [altblog](https://github.com/zamandevv/altblog/tree/mybranch)
 
 <p align="right"><a href="#readme-top">back to top</a></p>
 
@@ -286,27 +288,3 @@ Project Link: [Blogolicious](https://github.com/tobisupreme/blogolicious)
 This project was made possible by:
 
 - [AltSchool Africa School of Engineering](https://altschoolafrica.com/schools/engineering)
-- [Full Stack open 2022](https://fullstackopen.com/en/)
-- [Dr Austin Wopara's Ze Blog](https://github.com/Ze-Austin/ze-blog)
-- [Othneil Drew's README Template](https://github.com/othneildrew/Best-README-Template)
-- [Ileriayo's Markdown Badges](https://github.com/Ileriayo/markdown-badges)
-
-<p align="right"><a href="#readme-top">back to top</a></p>
-<!-- Markdown Links & Images -->
-
-[contributors-shield]: https://img.shields.io/github/contributors/tobisupreme/blogolicious.svg?style=for-the-badge
-[contributors-url]: https://github.com/tobisupreme/blogolicious/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/tobisupreme/blogolicious.svg?style=for-the-badge
-[forks-url]: https://github.com/tobisupreme/blogolicious/network/members
-[stars-shield]: https://img.shields.io/github/stars/tobisupreme/blogolicious.svg?style=for-the-badge
-[stars-url]: https://github.com/tobisupreme/blogolicious/stargazers
-[issues-shield]: https://img.shields.io/github/issues/tobisupreme/blogolicious.svg?style=for-the-badge
-[issues-url]: https://github.com/tobisupreme/blogolicious/issues
-[license-shield]: https://img.shields.io/github/license/tobisupreme/blogolicious.svg?style=for-the-badge
-[license-url]: https://github.com/tobisupreme/blogolicious/blob/main/LICENSE.md
-[twitter-shield]: https://img.shields.io/badge/-@tobisupreme-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/tobisupreme
-[twitter-url]: https://twitter.com/tobisupreme
-[javascript]: https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1C
-[node]: https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white
-[express]: https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB
-[mongodb]: https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white
